@@ -8,7 +8,6 @@ E -->F[Stepped back and studied the surrounding ];
 F -->G[Started school again ];
 G -->C 
  
-
  
 
 
